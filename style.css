@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Doppio+One&family=Roboto:wght@100&display=swap');
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: "Doppio One", sans-serif;
+    background-color: black;
+}
+
+.button{
+    width: 3.5rem;
+    padding: 20px;
+    margin: 0px 3px;
+    border: 2px solid black;
+    border-radius: 100%;
+    cursor: pointer;
+    font-size: larger;
+    font-weight: lighter;
+}
+
+.row{
+    margin: 8px 0px;
+}
+.row input{
+    font-size: 20px;
+    margin: 0px;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.gra{
+    background-color: gainsboro;
+}
+.blc{
+    background-color: #42484c;
+    color: white;
+}
+.ylw{
+    background-color: #ff7c2b;
+    color: white;
+}
